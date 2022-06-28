@@ -1,4 +1,4 @@
-!/usr/bin/python3
+#!/usr/bin/python3
 # Author - Caren Siya
 
 def uppercase(str):
